@@ -1,0 +1,6 @@
+C:\Users\rusla\source\repos\ParolClass\ParolClass\bin\Debug\ParolClass.dll
+C:\Users\rusla\source\repos\ParolClass\ParolClass\bin\Debug\ParolClass.pdb
+C:\Users\rusla\source\repos\ParolClass\ParolClass\obj\Debug\ParolClass.csproj.AssemblyReference.cache
+C:\Users\rusla\source\repos\ParolClass\ParolClass\obj\Debug\ParolClass.csproj.CoreCompileInputs.cache
+C:\Users\rusla\source\repos\ParolClass\ParolClass\obj\Debug\ParolClass.dll
+C:\Users\rusla\source\repos\ParolClass\ParolClass\obj\Debug\ParolClass.pdb
